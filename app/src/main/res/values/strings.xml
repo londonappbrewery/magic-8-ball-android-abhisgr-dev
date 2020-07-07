@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="title">Fortune Teller</string>
+    <string name="imageFortuneDescription">Image with the Fortune Strings</string>
+    <string name="askButtonText">ASK</string>
 </resources>
